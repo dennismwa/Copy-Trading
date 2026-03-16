@@ -1,0 +1,227 @@
+[26-Oct-2025 19:51:28 Africa/Nairobi] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/theultra/public_html/config/database.php on line 113
+[26-Oct-2025 19:51:28 Africa/Nairobi] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/theultra/public_html/config/database.php on line 113
+[26-Oct-2025 19:51:28 Africa/Nairobi] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/theultra/public_html/config/database.php on line 113
+[27-Oct-2025 00:41:17 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[27-Oct-2025 23:38:30 Africa/Nairobi] ADMIN ACTION: Capital injection by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-27 23:38:30
+[27-Oct-2025 23:40:09 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=8 by admin_id=1, amount=1.00, notes=Marked as completed by System Administrator on 2025-10-27 23:40:09 at 2025-10-27 23:40:09
+[27-Oct-2025 23:50:26 Africa/Nairobi] ADMIN ACTION: Capital injection by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-27 23:50:26
+[27-Oct-2025 23:50:52 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=9 by admin_id=1, amount=1.00, notes=Marked as completed by System Administrator on 2025-10-27 23:50:52 at 2025-10-27 23:50:52
+[27-Oct-2025 23:52:35 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Upgrade Plan, type=info at 2025-10-27 23:52:35
+[28-Oct-2025 07:35:23 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=💥, type=info at 2025-10-28 07:35:23
+[28-Oct-2025 07:35:45 Africa/Nairobi] ADMIN ACTION: Capital injection by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-28 07:35:45
+[28-Oct-2025 07:35:55 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=10 by admin_id=1, amount=1.00, notes=Marked as completed by System Administrator on 2025-10-28 07:35:55 at 2025-10-28 07:35:55
+[28-Oct-2025 12:50:02 Africa/Nairobi] ADMIN ACTION: Capital injection by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-28 12:50:02
+[28-Oct-2025 15:51:19 Africa/Nairobi] ADMIN ACTION: Password changed by admin_id=1 at 2025-10-28 15:51:19
+[28-Oct-2025 15:51:49 Africa/Nairobi] ADMIN ACTION: Email updated by admin_id=1, old_email=admin@ultraharvest.com, new_email=info@theultraharvest.com at 2025-10-28 15:51:49
+[28-Oct-2025 20:55:45 Africa/Nairobi] ADMIN ACTION: Capital injection by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-28 20:55:45
+[28-Oct-2025 20:55:57 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=12 by admin_id=1, amount=1.00, notes=Marked as completed by System Administrator on 2025-10-28 20:55:57 at 2025-10-28 20:55:57
+[29-Oct-2025 03:08:52 Africa/Nairobi] ADMIN ACTION: Capital injection by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-29 03:08:52
+[29-Oct-2025 03:09:04 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=13 by admin_id=1, amount=1.00, notes=Marked as completed by System Administrator on 2025-10-29 03:09:04 at 2025-10-29 03:09:04
+[29-Oct-2025 08:14:30 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Boost Your Deposit!, type=info at 2025-10-29 08:14:30
+[29-Oct-2025 12:32:27 Africa/Nairobi] ADMIN ACTION: Capital injection created by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-29 12:32:27 (status: pending - must be completed to contribute to liquidity)
+[29-Oct-2025 12:32:39 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=14 by admin_id=1, amount=1.00, notes=Marked as completed by System Administrator on 2025-10-29 12:32:39 at 2025-10-29 12:32:39
+[29-Oct-2025 12:33:30 Africa/Nairobi] ADMIN ACTION: Capital injection created by admin_id=1, amount=1, description=Capital injection to business float at 2025-10-29 12:33:30 (status: pending - must be completed to contribute to liquidity)
+[29-Oct-2025 12:33:45 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=15 by admin_id=1, amount=1.00, notes=Marked as completed by System Administrator on 2025-10-29 12:33:45 at 2025-10-29 12:33:45
+[29-Oct-2025 12:34:42 Africa/Nairobi] ADMIN ACTION: Capital injection created by admin_id=1, amount=2, description=Capital injection to business float at 2025-10-29 12:34:42 (status: pending - must be completed to contribute to liquidity)
+[29-Oct-2025 12:34:52 Africa/Nairobi] ADMIN ACTION: Injection completed - ID=16 by admin_id=1, amount=2.00, notes=Marked as completed by System Administrator on 2025-10-29 12:34:52 at 2025-10-29 12:34:52
+[30-Oct-2025 06:57:51 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Great Results 👍, type=info at 2025-10-30 06:57:51
+[30-Oct-2025 07:30:32 Africa/Nairobi] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/theultra/public_html/config/database.php on line 113
+[30-Oct-2025 07:30:32 Africa/Nairobi] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/theultra/public_html/config/database.php on line 113
+[30-Oct-2025 07:30:32 Africa/Nairobi] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/theultra/public_html/config/database.php on line 113
+[30-Oct-2025 12:57:54 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Not ready? 🤔, type=info at 2025-10-30 12:57:54
+[30-Oct-2025 15:55:55 Africa/Nairobi] ADMIN ACTION: Notification sent to 1 users by admin_id=1, title=Whatsapp, type=info at 2025-10-30 15:55:55
+[31-Oct-2025 07:42:29 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Join WhatsApp Community, type=info at 2025-10-31 07:42:29
+[31-Oct-2025 07:47:20 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=👇Whatsapp Joining Instructions, type=info at 2025-10-31 07:47:20
+[31-Oct-2025 09:59:32 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=WEEKEND OFFER! 😎, type=info at 2025-10-31 09:59:32
+[01-Nov-2025 12:04:34 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=WEEKEND OFFER!!! 😎😎😎, type=info at 2025-11-01 12:04:34
+[02-Nov-2025 07:27:03 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Strong Performance 💪, type=info at 2025-11-02 07:27:03
+[02-Nov-2025 12:16:59 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Offer Still On! 😍, type=info at 2025-11-02 12:16:59
+[03-Nov-2025 04:34:00 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Level Up ! 😎, type=info at 2025-11-03 04:34:00
+[04-Nov-2025 08:30:12 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🔥, type=info at 2025-11-04 08:30:12
+[04-Nov-2025 15:39:56 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=MONDAY OFFER 🚀, type=info at 2025-11-04 15:39:56
+[05-Nov-2025 11:04:12 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=TUESDAY OFFER 🤑, type=info at 2025-11-05 11:04:12
+[08-Nov-2025 20:01:06 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=OFFER 🚀, type=info at 2025-11-08 20:01:06
+[09-Nov-2025 17:24:35 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Sunday Offer!!!, type=info at 2025-11-09 17:24:35
+[15-Nov-2025 03:00:20 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 03:00:20 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 10000
+[15-Nov-2025 03:00:20 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 03:00:20 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 200
+[15-Nov-2025 03:00:20 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 200
+[15-Nov-2025 03:00:20 Africa/Nairobi] Daily withdrawal limit saved and verified: 200
+[15-Nov-2025 03:00:40 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 03:00:40 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 10000
+[15-Nov-2025 03:00:40 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 03:00:40 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 700
+[15-Nov-2025 03:00:40 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 700
+[15-Nov-2025 03:00:40 Africa/Nairobi] Daily withdrawal limit saved and verified: 700
+[15-Nov-2025 03:01:42 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 03:01:42 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 10000
+[15-Nov-2025 03:01:42 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 03:01:42 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 800
+[15-Nov-2025 03:01:42 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 800
+[15-Nov-2025 03:01:42 Africa/Nairobi] Daily withdrawal limit saved and verified: 800
+[15-Nov-2025 03:02:30 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 03:02:30 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 10000
+[15-Nov-2025 03:02:30 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 03:02:30 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 900
+[15-Nov-2025 03:02:30 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 900
+[15-Nov-2025 03:02:30 Africa/Nairobi] Daily withdrawal limit saved and verified: 900
+[15-Nov-2025 03:52:28 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 03:52:28 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 101
+[15-Nov-2025 03:52:28 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 03:52:28 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 101
+[15-Nov-2025 03:52:28 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 101
+[15-Nov-2025 03:52:28 Africa/Nairobi] Daily withdrawal limit saved and verified: 101
+[15-Nov-2025 03:58:55 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 03:58:55 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 10000
+[15-Nov-2025 03:58:55 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 03:58:55 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 10000
+[15-Nov-2025 03:58:55 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 10000
+[15-Nov-2025 03:58:55 Africa/Nairobi] Daily withdrawal limit saved and verified: 10000
+[15-Nov-2025 04:11:37 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Upgrade Done! 🎉✅, type=success at 2025-11-15 04:11:37
+[15-Nov-2025 06:54:14 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 274 | Limit: 10000.00 | Today's Total: 0.00 | Requested: 730000.00 | Transaction Count: 0
+[15-Nov-2025 06:54:14 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 274 | Limit: 10000.00 | Today's Total: 0.00 | Requested: 730000.00 | Would Be Total: 730000.00 | Remaining: 10000.00
+[15-Nov-2025 06:54:14 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 274 | Limit: 10000 | Today's Total: 0 | Requested: 730000 | Remaining: 10000
+[15-Nov-2025 06:54:22 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 274 | Limit: 10000.00 | Today's Total: 0.00 | Requested: 730000.00 | Transaction Count: 0
+[15-Nov-2025 06:54:22 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 274 | Limit: 10000.00 | Today's Total: 0.00 | Requested: 730000.00 | Would Be Total: 730000.00 | Remaining: 10000.00
+[15-Nov-2025 06:54:22 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 274 | Limit: 10000 | Today's Total: 0 | Requested: 730000 | Remaining: 10000
+[15-Nov-2025 06:54:40 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 274 | Limit: 10000.00 | Today's Total: 0.00 | Requested: 730000.00 | Transaction Count: 0
+[15-Nov-2025 06:54:40 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 274 | Limit: 10000.00 | Today's Total: 0.00 | Requested: 730000.00 | Would Be Total: 730000.00 | Remaining: 10000.00
+[15-Nov-2025 06:54:40 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 274 | Limit: 10000 | Today's Total: 0 | Requested: 730000 | Remaining: 10000
+[15-Nov-2025 06:55:29 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 06:55:29 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 1000000
+[15-Nov-2025 06:55:29 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 06:55:29 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 1000000
+[15-Nov-2025 06:55:29 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 1000000
+[15-Nov-2025 06:55:29 Africa/Nairobi] Daily withdrawal limit saved and verified: 1000000
+[15-Nov-2025 06:56:25 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 274 | Limit: 1000000.00 | Today's Total: 0.00 | Requested: 730000.00 | Transaction Count: 0
+[15-Nov-2025 06:56:25 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 274 | Limit: 1000000.00 | Today's Total: 730000.00 | Requested: 0.00 | Transaction Count: 1
+[15-Nov-2025 06:56:52 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 06:56:52 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 10000
+[15-Nov-2025 06:56:52 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 06:56:52 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 10000
+[15-Nov-2025 06:56:52 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 10000
+[15-Nov-2025 06:56:52 Africa/Nairobi] Daily withdrawal limit saved and verified: 10000
+[15-Nov-2025 07:08:51 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[15-Nov-2025 07:08:51 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 5000
+[15-Nov-2025 07:08:51 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[15-Nov-2025 07:08:51 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 5000
+[15-Nov-2025 07:08:51 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 5000
+[15-Nov-2025 07:08:51 Africa/Nairobi] Daily withdrawal limit saved and verified: 5000
+[15-Nov-2025 11:19:24 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 2 | Amount: 100 | Original Balance: 0 | New Balance: 100 | Txn ID: 5326
+[15-Nov-2025 11:45:17 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 8 | Amount: 100 | Original Balance: 0 | New Balance: 100 | Txn ID: 5348
+[15-Nov-2025 11:47:01 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 274 | Amount: 146000 | Original Balance: 0.1 | New Balance: 146000.1 | Txn ID: 5351
+[15-Nov-2025 11:48:18 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 196 | Amount: 7494 | Original Balance: 35152.9 | New Balance: 42646.9 | Txn ID: 5352
+[15-Nov-2025 11:49:07 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 163 | Amount: 11992 | Original Balance: 6.19 | New Balance: 11998.19 | Txn ID: 5353
+[15-Nov-2025 11:49:54 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 27 | Amount: 16960 | Original Balance: 27110.43 | New Balance: 44070.43 | Txn ID: 5354
+[15-Nov-2025 11:51:10 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 127 | Amount: 66793 | Original Balance: 0.22 | New Balance: 66793.22 | Txn ID: 5356
+[15-Nov-2025 14:24:00 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🎉 Saturday Special!, type=info at 2025-11-15 14:24:00
+[01-Dec-2025 19:16:41 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Withdrawals, type=success at 2025-12-01 19:16:41
+[02-Dec-2025 12:11:03 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🚀 BIG NEWS! 🚀, type=success at 2025-12-02 12:11:03
+[02-Dec-2025 17:49:34 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🚀 LIMIT UNLOCK ALERT! 🚀, type=success at 2025-12-02 17:49:34
+[03-Dec-2025 12:54:46 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=✨ Update on Your Withdrawal Limit ✨, type=info at 2025-12-03 12:54:46
+[03-Dec-2025 12:55:56 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=💬 Need Help? We’re Here for You!, type=info at 2025-12-03 12:55:56
+[04-Dec-2025 13:48:40 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 470 | Amount: 4400 | Original Balance: 0 | New Balance: 4400 | Txn ID: 28892
+[05-Dec-2025 19:33:57 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 333 | Limit: 5000.00 | Today's Total: 0.00 | Requested: 5000.00 | Transaction Count: 0
+[05-Dec-2025 19:33:57 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 333 | Limit: 5000.00 | Today's Total: 5000.00 | Requested: 0.00 | Transaction Count: 1
+[05-Dec-2025 19:33:57 Africa/Nairobi] BALANCE ADJUSTMENT (Debit) - User ID: 333 | Amount: 5000 | Original Balance: 36941.7 | New Balance: 31941.7 | Txn ID: 31642
+[06-Dec-2025 19:08:52 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 333 | Limit: 5000.00 | Today's Total: 0.00 | Requested: 5000.00 | Transaction Count: 0
+[06-Dec-2025 19:08:52 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 333 | Limit: 5000.00 | Today's Total: 5000.00 | Requested: 0.00 | Transaction Count: 1
+[06-Dec-2025 19:08:52 Africa/Nairobi] BALANCE ADJUSTMENT (Debit) - User ID: 333 | Amount: 5000 | Original Balance: 31941.7 | New Balance: 26941.7 | Txn ID: 33493
+[08-Dec-2025 10:54:25 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 448 | Amount: 2400 | Original Balance: 0 | New Balance: 2400 | Txn ID: 36576
+[08-Dec-2025 17:10:03 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Major Update, type=info at 2025-12-08 17:10:03
+[08-Dec-2025 19:09:44 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 968 | Amount: 15000 | Original Balance: 0 | New Balance: 15000 | Txn ID: 37614
+[08-Dec-2025 19:44:01 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Withdrawals Update, type=success at 2025-12-08 19:44:01
+[08-Dec-2025 21:11:51 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 127 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 7400.00 | Transaction Count: 0
+[08-Dec-2025 21:11:51 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 127 | Limit: 15000.00 | Today's Total: 7400.00 | Requested: 0.00 | Transaction Count: 1
+[08-Dec-2025 21:11:51 Africa/Nairobi] BALANCE ADJUSTMENT (Debit) - User ID: 127 | Amount: 7400 | Original Balance: 14801.5 | New Balance: 7401.5 | Txn ID: 37874
+[09-Dec-2025 08:56:01 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 127 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 7400.00 | Transaction Count: 0
+[09-Dec-2025 08:56:01 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 127 | Limit: 15000.00 | Today's Total: 7400.00 | Requested: 0.00 | Transaction Count: 1
+[09-Dec-2025 08:56:01 Africa/Nairobi] BALANCE ADJUSTMENT (Debit) - User ID: 127 | Amount: 7400 | Original Balance: 48061.17 | New Balance: 40661.17 | Txn ID: 38754
+[09-Dec-2025 09:43:21 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Saturday Withdrawals, type=success at 2025-12-09 09:43:21
+[09-Dec-2025 15:04:09 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=👑 Referral King Alert! 👑, type=success at 2025-12-09 15:04:09
+[09-Dec-2025 15:48:01 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🚀 Trading and account growth continue uninterrupted!, type=success at 2025-12-09 15:48:01
+[09-Dec-2025 20:07:25 Africa/Nairobi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home/theultra/public_html/admin/index.php:89
+Stack trace:
+#0 /home/theultra/public_html/admin/index.php(89): PDO->query('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/theultra/public_html/admin/index.php on line 89
+[09-Dec-2025 17:07:27 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[09-Dec-2025 21:57:26 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🌟 Have You Explored the Golden Yield Package? 🌟, type=success at 2025-12-09 21:57:26
+[10-Dec-2025 11:35:46 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🔥 TRADERS HARVEST IS LIVE! 🌾, type=success at 2025-12-10 11:35:46
+[13-Dec-2025 16:02:15 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🔔 Withdrawal Window Closed Successfully, type=success at 2025-12-13 16:02:15
+[17-Dec-2025 11:41:08 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Withdrawals, type=success at 2025-12-17 11:41:08
+[17-Dec-2025 15:18:15 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Saturday Withdrawals Update 💳⏰, type=info at 2025-12-17 15:18:15
+[19-Dec-2025 13:40:11 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🚨 Withdrawal Notice 🚨, type=success at 2025-12-19 13:40:11
+[23-Dec-2025 11:03:02 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=With Growth Comes Change 🌱, type=success at 2025-12-23 11:03:02
+[24-Dec-2025 08:15:57 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🚀 Growing Better for You, type=success at 2025-12-24 08:15:57
+[30-Dec-2025 11:05:12 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=Are you Ready?, type=success at 2025-12-30 11:05:12
+[30-Dec-2025 21:48:23 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=New Year Step Up 💥, type=success at 2025-12-30 21:48:23
+[01-Jan-2026 11:20:50 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🎉 Happy New Year! 🎆, type=success at 2026-01-01 11:20:50
+[01-Jan-2026 14:26:29 Africa/Nairobi] ADMIN ACTION: Broadcast notification sent by admin_id=1, title=🌟 Welcome to a Year of Prosperity 🌟, type=success at 2026-01-01 14:26:29
+[01-Jan-2026 14:29:25 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 9 | Amount: 450000 | Original Balance: 1100 | New Balance: 451100 | Txn ID: 62378
+[01-Jan-2026 14:31:27 Africa/Nairobi] Balance adjustment error: Insufficient balance for debit
+[01-Jan-2026 14:31:48 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 451000.00 | Transaction Count: 0
+[01-Jan-2026 14:31:48 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 451000.00 | Would Be Total: 451000.00 | Remaining: 15000.00
+[01-Jan-2026 14:31:48 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 9 | Limit: 15000 | Today's Total: 0 | Requested: 451000 | Remaining: 15000
+[01-Jan-2026 14:31:48 Africa/Nairobi] Balance adjustment error: You have reached your daily withdrawal limit. You can withdraw up to KSh 15,000.00 more today.
+[01-Jan-2026 14:32:17 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[01-Jan-2026 14:32:17 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 500000
+[01-Jan-2026 14:32:17 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[01-Jan-2026 14:32:17 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 5000
+[01-Jan-2026 14:32:17 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 5000
+[01-Jan-2026 14:32:17 Africa/Nairobi] Daily withdrawal limit saved and verified: 5000
+[01-Jan-2026 14:32:51 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 450000.00 | Transaction Count: 0
+[01-Jan-2026 14:32:51 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 450000.00 | Would Be Total: 450000.00 | Remaining: 15000.00
+[01-Jan-2026 14:32:51 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 9 | Limit: 15000 | Today's Total: 0 | Requested: 450000 | Remaining: 15000
+[01-Jan-2026 14:32:51 Africa/Nairobi] Balance adjustment error: You have reached your daily withdrawal limit. You can withdraw up to KSh 15,000.00 more today.
+[01-Jan-2026 14:33:28 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[01-Jan-2026 14:33:28 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 500000
+[01-Jan-2026 14:33:28 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[01-Jan-2026 14:33:28 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 5000000
+[01-Jan-2026 14:33:28 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 5000000
+[01-Jan-2026 14:33:28 Africa/Nairobi] Daily withdrawal limit saved and verified: 5000000
+[01-Jan-2026 14:34:10 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 450000.00 | Transaction Count: 0
+[01-Jan-2026 14:34:10 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 450000.00 | Would Be Total: 450000.00 | Remaining: 15000.00
+[01-Jan-2026 14:34:10 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 9 | Limit: 15000 | Today's Total: 0 | Requested: 450000 | Remaining: 15000
+[01-Jan-2026 14:34:10 Africa/Nairobi] Balance adjustment error: You have reached your daily withdrawal limit. You can withdraw up to KSh 15,000.00 more today.
+[01-Jan-2026 14:35:07 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[01-Jan-2026 14:35:07 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 5000
+[01-Jan-2026 14:35:07 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[01-Jan-2026 14:35:07 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 5000
+[01-Jan-2026 14:35:07 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 5000
+[01-Jan-2026 14:35:07 Africa/Nairobi] Daily withdrawal limit saved and verified: 5000
+[01-Jan-2026 14:38:08 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 50000.00 | Transaction Count: 0
+[01-Jan-2026 14:38:08 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 50000.00 | Would Be Total: 50000.00 | Remaining: 15000.00
+[01-Jan-2026 14:38:08 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 9 | Limit: 15000 | Today's Total: 0 | Requested: 50000 | Remaining: 15000
+[01-Jan-2026 14:38:08 Africa/Nairobi] Balance adjustment error: You have reached your daily withdrawal limit. You can withdraw up to KSh 15,000.00 more today.
+[08-Jan-2026 11:26:53 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[08-Jan-2026 11:27:00 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[09-Jan-2026 06:04:54 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[12-Jan-2026 03:51:45 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[12-Jan-2026 03:51:51 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[13-Jan-2026 20:26:06 Africa/Nairobi] BALANCE ADJUSTMENT (Credit) - User ID: 9 | Amount: 650000 | Original Balance: 451100 | New Balance: 1101100 | Txn ID: 69631
+[13-Jan-2026 20:26:43 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[13-Jan-2026 20:26:43 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 5000000
+[13-Jan-2026 20:26:43 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[13-Jan-2026 20:26:43 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 5000000
+[13-Jan-2026 20:26:43 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 5000000
+[13-Jan-2026 20:26:43 Africa/Nairobi] Daily withdrawal limit saved and verified: 5000000
+[13-Jan-2026 20:27:09 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 600000.00 | Transaction Count: 0
+[13-Jan-2026 20:27:09 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 600000.00 | Would Be Total: 600000.00 | Remaining: 15000.00
+[13-Jan-2026 20:27:09 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 9 | Limit: 15000 | Today's Total: 0 | Requested: 600000 | Remaining: 15000
+[13-Jan-2026 20:27:09 Africa/Nairobi] Balance adjustment error: You have reached your daily withdrawal limit. You can withdraw up to KSh 15,000.00 more today.
+[13-Jan-2026 20:28:51 Africa/Nairobi] Setting updated successfully: min_withdrawal_amount = 100
+[13-Jan-2026 20:28:51 Africa/Nairobi] Setting updated successfully: max_withdrawal_amount = 100000
+[13-Jan-2026 20:28:51 Africa/Nairobi] Setting updated successfully: withdrawal_processing_time = 24
+[13-Jan-2026 20:28:51 Africa/Nairobi] DAILY WITHDRAWAL LIMIT UPDATED: New value = 100000
+[13-Jan-2026 20:28:51 Africa/Nairobi] Setting updated successfully: daily_withdrawal_limit = 100000
+[13-Jan-2026 20:28:51 Africa/Nairobi] Daily withdrawal limit saved and verified: 100000
+[13-Jan-2026 20:29:29 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 100000.00 | Transaction Count: 0
+[13-Jan-2026 20:29:29 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 100000.00 | Would Be Total: 100000.00 | Remaining: 15000.00
+[13-Jan-2026 20:29:29 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 9 | Limit: 15000 | Today's Total: 0 | Requested: 100000 | Remaining: 15000
+[13-Jan-2026 20:29:29 Africa/Nairobi] Balance adjustment error: You have reached your daily withdrawal limit. You can withdraw up to KSh 15,000.00 more today.
+[13-Jan-2026 20:30:44 Africa/Nairobi] DAILY LIMIT CHECK - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 100000.00 | Transaction Count: 0
+[13-Jan-2026 20:30:44 Africa/Nairobi] DAILY LIMIT BLOCKED - User ID: 9 | Limit: 15000.00 | Today's Total: 0.00 | Requested: 100000.00 | Would Be Total: 100000.00 | Remaining: 15000.00
+[13-Jan-2026 20:30:44 Africa/Nairobi] DAILY LIMIT BLOCKED (Admin Withdrawal) - User ID: 9 | Limit: 15000 | Today's Total: 0 | Requested: 100000 | Remaining: 15000
+[13-Jan-2026 20:30:44 Africa/Nairobi] Balance adjustment error: You have reached your daily withdrawal limit. You can withdraw up to KSh 15,000.00 more today.
