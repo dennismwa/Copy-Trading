@@ -1,0 +1,31 @@
+# robots.txt for Ultra Harvest Global
+# Domain: https://theultraharvest.com/
+# 
+# This file instructs search engine crawlers which pages and directories
+# they are allowed or disallowed to crawl and index.
+#
+# Last updated: 2025
+# To update this file: Edit robots.txt in the project root directory
+#
+# For more information about robots.txt:
+# https://developers.google.com/search/docs/crawling-indexing/robots/robots_txt
+
+# Allow all search engines to crawl the site
+User-agent: *
+
+# Allow all pages by default
+Allow: /
+
+# Disallow sensitive/private directories that should not be indexed
+Disallow: /admin/
+Disallow: /user/
+Disallow: /api/
+Disallow: /config/
+Disallow: /logs/
+Disallow: /cron/
+Disallow: /home.php
+
+# Sitemap location - helps search engines discover all available pages
+# Update this if your sitemap location changes
+Sitemap: https://theultraharvest.com/sitemap.xml
+

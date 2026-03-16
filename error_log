@@ -1,0 +1,389 @@
+[28-Oct-2025 16:15:43 Africa/Nairobi] PHP Fatal error:  Cannot redeclare generateReferralCode() (previously declared in /home/theultra/public_html/config/database.php:231) in /home/theultra/public_html/create_test_limited_admin.php on line 26
+[28-Oct-2025 19:59:31 Africa/Nairobi] PHP Fatal error:  Cannot redeclare generateReferralCode() (previously declared in /home/theultra/public_html/config/database.php:231) in /home/theultra/public_html/create_test_limited_admin.php on line 29
+[28-Oct-2025 20:37:37 Africa/Nairobi] Create admin error: There is no active transaction
+[29-Oct-2025 01:24:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:775
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 775
+[29-Oct-2025 22:07:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:775
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 775
+[30-Oct-2025 01:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:775
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 775
+[01-Nov-2025 03:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:775
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 775
+[04-Nov-2025 20:18:36 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[04-Nov-2025 20:18:40 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[06-Nov-2025 13:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:775
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 775
+[06-Nov-2025 20:30:38 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[07-Nov-2025 00:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:775
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 775
+[08-Nov-2025 20:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:775
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 775
+[15-Nov-2025 06:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:778
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 778
+[15-Nov-2025 10:59:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:778
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 778
+[28-Nov-2025 19:29:11 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[30-Nov-2025 06:16:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:778
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 778
+[30-Nov-2025 12:05:25 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[30-Nov-2025 12:05:28 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[30-Nov-2025 12:05:33 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[30-Nov-2025 12:05:39 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[01-Dec-2025 08:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:778
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 778
+[01-Dec-2025 15:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:778
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 778
+[02-Dec-2025 22:29:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[03-Dec-2025 16:11:22 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[08-Dec-2025 05:42:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[08-Dec-2025 12:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[08-Dec-2025 19:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[08-Dec-2025 19:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[09-Dec-2025 00:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[09-Dec-2025 17:03:27 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[09-Dec-2025 17:26:42 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[10-Dec-2025 14:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[12-Dec-2025 16:23:48 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Dec-2025 11:05:15 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[13-Dec-2025 11:05:15 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[14-Dec-2025 02:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[14-Dec-2025 09:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[15-Dec-2025 07:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[15-Dec-2025 18:39:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[17-Dec-2025 18:01:35 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[17-Dec-2025 18:01:35 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[19-Dec-2025 19:14:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[19-Dec-2025 20:24:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[20-Dec-2025 00:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[20-Dec-2025 06:15:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[20-Dec-2025 07:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[20-Dec-2025 08:47:43 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[20-Dec-2025 08:47:43 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[20-Dec-2025 09:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[21-Dec-2025 01:51:19 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[21-Dec-2025 01:51:27 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[23-Dec-2025 13:49:44 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[25-Dec-2025 16:07:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[26-Dec-2025 04:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[28-Dec-2025 17:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[30-Dec-2025 12:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[30-Dec-2025 15:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[30-Dec-2025 19:45:07 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[30-Dec-2025 19:45:27 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[31-Dec-2025 11:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[01-Jan-2026 00:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[01-Jan-2026 07:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[02-Jan-2026 15:56:53 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[03-Jan-2026 12:26:21 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[03-Jan-2026 12:26:22 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[03-Jan-2026 12:26:22 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[03-Jan-2026 12:26:22 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[03-Jan-2026 12:26:26 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[03-Jan-2026 12:26:27 UTC] Database connection failed: SQLSTATE[HY000] [1203] User theultra_theultra already has more than 'max_user_connections' active connections
+[06-Jan-2026 07:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[06-Jan-2026 20:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[06-Jan-2026 20:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[06-Jan-2026 22:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[06-Jan-2026 22:43:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[07-Jan-2026 10:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[08-Jan-2026 00:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[08-Jan-2026 11:26:42 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[08-Jan-2026 11:26:43 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[09-Jan-2026 06:04:42 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[09-Jan-2026 06:04:43 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[10-Jan-2026 09:03:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[12-Jan-2026 03:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[12-Jan-2026 03:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[12-Jan-2026 03:51:26 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[12-Jan-2026 03:51:32 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[12-Jan-2026 03:51:39 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[12-Jan-2026 19:32:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[13-Jan-2026 11:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[13-Jan-2026 13:14:45 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[16-Jan-2026 21:49:45 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[17-Jan-2026 07:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[17-Jan-2026 11:49:30 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[17-Jan-2026 11:49:36 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[17-Jan-2026 11:49:40 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[17-Jan-2026 13:59:06 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[17-Jan-2026 13:59:18 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[18-Jan-2026 06:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[18-Jan-2026 12:00:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[19-Jan-2026 17:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[20-Jan-2026 06:25:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[20-Jan-2026 10:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[21-Jan-2026 01:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[21-Jan-2026 04:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[24-Jan-2026 09:57:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[25-Jan-2026 18:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[27-Jan-2026 10:30:30 UTC] Database connection failed: SQLSTATE[08004] [1040] Too many connections
+[27-Jan-2026 13:09:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[29-Jan-2026 05:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[29-Jan-2026 14:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[30-Jan-2026 15:13:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[30-Jan-2026 22:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[31-Jan-2026 02:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[31-Jan-2026 06:19:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[31-Jan-2026 19:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[01-Feb-2026 02:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[01-Feb-2026 10:22:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[02-Feb-2026 16:17:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[04-Feb-2026 05:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[04-Feb-2026 13:54:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[05-Feb-2026 19:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[05-Feb-2026 19:58:02 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[05-Feb-2026 23:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[06-Feb-2026 06:57:20 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[06-Feb-2026 23:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[07-Feb-2026 01:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[07-Feb-2026 08:51:07 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[07-Feb-2026 13:19:07 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[07-Feb-2026 22:55:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[08-Feb-2026 06:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[10-Feb-2026 20:25:33 UTC] Database connection failed: SQLSTATE[HY000] [1040] Too many connections
+[10-Feb-2026 23:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[11-Feb-2026 15:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[12-Feb-2026 00:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[12-Feb-2026 06:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[13-Feb-2026 06:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
+[14-Feb-2026 20:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGoogleAnalyticsCode() in /home/theultra/public_html/about.php:779
+Stack trace:
+#0 {main}
+  thrown in /home/theultra/public_html/about.php on line 779
